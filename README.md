@@ -60,4 +60,4 @@ This repository is licensed under the **[MIT License](https://opensource.org/lic
 
 ---
 
-Thank you for visiting! Happy coding! 🌟
+**🌟 Thank you for visiting! Happy coding!**
