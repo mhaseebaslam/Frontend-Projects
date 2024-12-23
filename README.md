@@ -56,7 +56,7 @@ Contributions are welcome! If you’d like to add improvements or new projects, 
 
 ## 📜 License
 
-This repository is licensed under the **MIT License**. Feel free to use the projects, modify them, and share your own versions.
+This repository is licensed under the **[MIT License](https://opensource.org/license/mit)**. Feel free to use the projects, modify them, and share your own versions.
 
 ---
 
