@@ -1,6 +1,6 @@
 # 🚀 Frontend Projects Showcase
 
-This repository showcases a collection of front-end projects. Each project is designed to enhance essential front-end development skills and demonstrate creativity in solving common UI/UX challenges.  
+Welcome to my **Frontend Projects Showcase** repository! This repository showcases a collection of front-end projects built by following the [roadmap.sh](https://roadmap.sh/frontend) Frontend Developer Path. Each project is designed to enhance essential front-end development skills and demonstrate creativity in solving common UI/UX challenges.  
 
 ---
 
