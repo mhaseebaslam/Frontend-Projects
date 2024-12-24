@@ -42,6 +42,10 @@ This project is a simple, single-page HTML CV template designed for showcasing y
 - **Interactivity**: Add JavaScript for interactive elements, such as a download button for a PDF version of the CV.
 - **Accessibility**: Implement ARIA roles and attributes to improve accessibility further.
 
+## Built With
+
+This project was built by following the [roadmap.sh](https://roadmap.sh/projects/single-page-cv) guidelines for frontend developers, focusing on HTML fundamentals.
+
 ## License
 
 This project is open-source and available under the **[MIT License](https://opensource.org/license/mit)**. Feel free to modify and use it as per your requirements.
