@@ -1,4 +1,4 @@
-# Junior Frontend Developer CV
+# Single-Page CV
 
 This project is a simple, single-page HTML CV template designed for showcasing your education, skills, and career history. It uses semantic HTML to structure the content, includes essential metadata for SEO, and is ready for future styling with CSS.
 
@@ -12,8 +12,8 @@ This project is a simple, single-page HTML CV template designed for showcasing y
 
 ## File Structure
 
-- `index.html`: The main HTML file containing the CV content.
-- `favicon.ico`: The favicon image (replace with your own).
+- `index.html` is the main HTML file containing the CV content.
+- `favicon.ico` is the favicon image (replace with your own).
 
 ## Sections
 
