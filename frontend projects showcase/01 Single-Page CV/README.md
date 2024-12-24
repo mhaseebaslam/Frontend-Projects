@@ -44,4 +44,4 @@ This project is a simple, single-page HTML CV template designed for showcasing y
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE). Feel free to modify and use it as per your requirements.
+This project is open-source and available under the **[MIT License](https://opensource.org/license/mit)**. Feel free to modify and use it as per your requirements.
