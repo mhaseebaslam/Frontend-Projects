@@ -44,7 +44,7 @@ This project is a simple, single-page HTML CV template designed for showcasing y
 
 ## Built With
 
-This project was built by following the [roadmap.sh](https://roadmap.sh/projects/single-page-cv) guidelines for frontend developers, focusing on HTML fundamentals.
+This project was built by following the [roadmap.sh project URL](https://roadmap.sh/projects/single-page-cv) guidelines for frontend developers, focusing on HTML fundamentals.
 
 ## License
 
