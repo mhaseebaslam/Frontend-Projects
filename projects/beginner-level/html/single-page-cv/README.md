@@ -1,53 +1,90 @@
 # Single-Page CV
 
-This project is a simple, single-page HTML CV template designed for showcasing your education, skills, and career history. It uses semantic HTML to structure the content, includes essential metadata for SEO, and is ready for future styling with CSS.
+This repository contains a single-page HTML CV showcasing career history, education, and skills. It uses semantic HTML to structure the content, includes essential metadata for SEO, and is ready for future styling with CSS.
 
-## Features
+## 🚀 Project Description
 
-- **Semantic HTML Structure**: Organized and meaningful HTML tags are used to ensure clarity and accessibility.
-- **SEO Optimized**: Includes meta tags for search engines and social media platforms.
-- **Open Graph Tags**: Enables rich previews when sharing the CV link on platforms like LinkedIn or Facebook.
-- **Favicon Support**: Adds a favicon to enhance the branding of your CV.
-- **Responsive Layout**: Uses basic responsive principles to ensure proper rendering on different devices.
+The goal of this project is to create a structured, single-page CV using only HTML. It focuses on:
 
-## File Structure
+- Using semantic HTML for a clear structure.
+- Adding SEO meta tags to improve visibility.
+- Incorporating Open Graph (OG) tags for better social media sharing.
+- Including a favicon for a polished presentation.
 
-- `index.html` is the main HTML file containing the CV content.
-- `favicon.ico` is the favicon image (replace with your own).
+This project lays the foundation for styling the CV in future iterations using CSS.
 
-## Sections
+---
 
-1. **Header**: Displays your name, title, and contact information.
-2. **Skills**: A list of technical and soft skills.
-3. **Education**: Details about your academic background.
-4. **Experience**: Highlights your professional achievements and roles.
-5. **Across the Internet**: Links to your LinkedIn and GitHub profiles.
+## 📋 Features
 
-## How to Use
+- **Semantic HTML**: Proper tags to structure content (e.g., `<header>`, `<section>`, `<ul>`).
+- **SEO Meta Tags**: Basic tags to improve search engine visibility.
+- **Open Graph Tags**: Optimized for sharing on social platforms.
+- **Favicon**: A small icon displayed in browser tabs.
+- **Single-Page Layout**: Clean and straightforward design.
 
-1. Replace placeholder content with your actual details:
-   - Update your name, title, address, and contact information in the `<header>` section.
-   - Add your skills, education details, and work experience in the respective sections.
-   - Replace the links to LinkedIn and GitHub with your actual profiles.
+---
 
-2. Add your favicon:
-   - Replace `favicon.ico` in the `<head>` section with your own favicon image.
+## 📂 Project Structure
 
-3. Deploy the file:
-   - Save the `index.html` file and host it on a platform like GitHub Pages, Netlify, or your preferred hosting service.
+- `index.html`: The HTML file containing the CV structure.
+- `favicon.ico`: The favicon used for the CV page.
 
-## Future Enhancements
+---
 
-- **Styling**: Use CSS to enhance the design and layout of the CV.
-- **Interactivity**: Add JavaScript for interactive elements, such as a download button for a PDF version of the CV.
-- **Accessibility**: Implement ARIA roles and attributes to improve accessibility further.
+## 🛠️ How to Run
 
-## Built With
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/mhaseebaslam/frontend-projects-showcase/tree/main/projects/beginner-level/html/single-page-cv.git
+   ```
+2. Open `index.html` in your browser to view the CV.
+
+---
+
+## 🌐 Live Demo
+
+You can view the live version of the CV here:  
+[Single-Page CV](https://mhaseebaslam.github.io/frontend-projects-showcase/projects/beginner-level/html/single-page-cv/)
+
+---
+
+## 🧑‍💻 Sections in the CV
+
+1. **Header**: Includes name and a professional tagline or brief introduction.
+2. **Education**: Lists degrees, institutions, and years attended.
+3. **Skills**: Highlights relevant skills in a bullet-point format.
+4. **Career History**: Details job roles, companies, and durations.
+5. **Footer**: Includes copyright information.
+
+---
+
+## 💡 Future Improvements
+
+- Add CSS for styling.
+- Make the layout responsive for mobile and desktop screens.
+- Add a contact section with links to social profiles.
+
+---
+
+## 📬 Feedback
+
+If you have any suggestions or feedback, feel free to open an issue or submit a pull request. Contributions are welcome!
+
+---
+
+## 🛠️ Built With
 
 This project was built by following the project 
 
-https://roadmap.sh/projects/single-page-cv guidelines for frontend developers, focusing on HTML fundamentals.
+[Single-Page CV](https://roadmap.sh/projects/single-page-cv) guidelines for frontend developers, focusing on HTML fundamentals.
 
-## License
+---
 
-This project is open-source and available under the **[MIT License](https://opensource.org/license/mit)**. Feel free to modify and use it as per your requirements.
+## 📄 License
+
+This project is licensed under the **[MIT License](https://opensource.org/license/mit)**. You are free to use, modify, and distribute this code as per the license.
+
+---
+
+Made with ❤️ by [Muhammad Haseeb](https://github.com/mhaseebaslam).
