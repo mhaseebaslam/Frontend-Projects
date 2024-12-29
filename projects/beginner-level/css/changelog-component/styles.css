@@ -1,0 +1,68 @@
+/* styles.css */
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+.changelog-container {
+    width: 90%;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.changelog-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.changelog-entry {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-left: 4px solid #007bff;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+}
+
+.changelog-date {
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 5px;
+}
+
+.changelog-details h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.changelog-details ul {
+    margin: 10px 0 0 0;
+    padding: 0;
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+.changelog-details ul li {
+    margin-bottom: 5px;
+    color: #555;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .changelog-entry {
+        flex-direction: column;
+    }
+}
