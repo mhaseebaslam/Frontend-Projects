@@ -1,0 +1,77 @@
+/* styles.css */
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.datepicker-container {
+    width: 300px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.datepicker-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+}
+
+.nav-button {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.month-year {
+    font-weight: bold;
+}
+
+.datepicker-body {
+    padding: 10px;
+}
+
+.day-names {
+    display: flex;
+    justify-content: space-between;
+    color: #555;
+    font-weight: bold;
+}
+
+.days-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 5px;
+    margin-top: 10px;
+}
+
+.day {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.day:hover {
+    background-color: #007bff;
+    color: #fff;
+}
