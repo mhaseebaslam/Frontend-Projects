@@ -1,0 +1,47 @@
+/* Base styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cookie consent banner styles */
+.cookie-consent-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+}
+
+.cookie-consent-banner p {
+    margin: 0;
+    padding: 0;
+}
+
+.cookie-consent-banner a {
+    color: #4caf50;
+    text-decoration: underline;
+}
+
+.cookie-consent-banner button {
+    background: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.cookie-consent-banner button:hover {
+    background: #45a049;
+}
